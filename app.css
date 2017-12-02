@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  background-color: #F5F5F5;
+}
+
+h1,h2{
+  font-family: 'Inconsolata', monospace;
+  color:#3B3B6D;
+}
+
+h2{
+  color:#333399;
+}
+
+.chart {
+  box-shadow:0px 3px 5px 6px #EBECF0;
+  background-color: #FFF;
+}
